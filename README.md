@@ -30,4 +30,4 @@
 [website]: https://hoangluan.com
 [facebook]: https://facebook.com/luandnh98
 [instagram]: https://instagram.com/luandnh98
-[linkedin]: https://linkedin.com/in/luandnh![terminal](https://user-images.githubusercontent.com/49023411/148676640-1765d4c1-1f3d-4542-a455-b056a18ae5fe.png)
+[linkedin]: https://linkedin.com/in/luandnh
