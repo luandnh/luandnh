@@ -54,10 +54,6 @@ func main() {
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luandnh&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=luandnh&theme=catppuccin-mocha&hide_border=true" />
-</p>
-
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -102,22 +98,6 @@ func main() {
     <img src="https://img.shields.io/badge/Protobuf-5E3E8B?style=flat-square&logo=protocol-buffers&logoColor=white" />
   </p>
 </details>
-
----
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=luandnh&theme=catppuccin_mocha&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" />
-</p>
-
----
-
-<h2 align="center">📊 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luandnh&theme=catppuccin-mocha&hide_border=true&custom_title=My%20Contribution%20Graph&area=true&bg_color=0d1117" width="95%" />
-</p>
 
 ---
 
