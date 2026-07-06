@@ -1,10 +1,10 @@
 :closed_lock_with_key: Every problem has a solution
 
-[![Luan's GitHub stats](https://github-stats-extended.vercel.app/api?username=luandnh)](https://github.com/anuraghazra/github-readme-stats)
+[![Luan's GitHub stats](https://github-stats-extended.vercel.app/api?username=luandnh)](https://github.com/stats-organization/github-stats-extended)
 
 ### Connect with me:
 
-[<img align="left" alt="hoangluan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="luandnh.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="luandnh98 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="luandnh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="luandnh98 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
