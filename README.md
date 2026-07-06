@@ -38,7 +38,7 @@ func main() {
         Role:     "Backend Engineer",
         Location: "🇻🇳 Ho Chi Minh City, Vietnam",
         Stack:    []string{"Go", "Python", "JavaScript", "Svelte"},
-        Currently: "M.S.E @ Fall 2024 - 2026",
+        Currently: "M.S.E @ Fall 06/2024 - 06/2026",
         FunFact:  "Every problem has a solution 🔐",
     }
     fmt.Printf("%+v\n", me)
@@ -102,6 +102,14 @@ func main() {
     <img src="https://img.shields.io/badge/Protobuf-5E3E8B?style=flat-square&logo=protocol-buffers&logoColor=white" />
   </p>
 </details>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=luandnh&theme=catppuccin_mocha&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" />
+</p>
 
 ---
 
